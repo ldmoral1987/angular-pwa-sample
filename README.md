@@ -7,11 +7,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-To test on http server, first run *sudo npm install -g http-server*, then compile with *ng build --prod* and run with *http-server -o* inside *dist/angular-pwa-sample*
+To test on http server, first run `sudo npm install -g http-server`, then compile with `ng build --prod` and run with `http-server -o` inside `dist/angular-pwa-sample`
 
 ## Dependencies
 
-To install requiered dependencies, please run *sudo npm install -g http-server*
+To install requiered dependencies, please run `sudo npm install -g http-server`
 
 ## Code scaffolding
 
