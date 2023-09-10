@@ -1,7 +1,7 @@
 # AngularPwaSample
 
 This is a simple Angular PWA application that fetchs data from online API REST @ https://jsonplaceholder.typicode.com/
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0. Desarrollado para el módulo profesional de Programación de Servicios y Procesos (PSP) del CFGS de Desarrollo de Aplicaciones Multiplataforma.
 
 ## Development server
 
